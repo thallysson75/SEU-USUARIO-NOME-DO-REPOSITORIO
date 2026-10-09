@@ -2,7 +2,7 @@
 
 Projeto didático em Python que demonstra classes, objetos, encapsulamento, herança, polimorfismo, classe abstrata, métodos especiais e tratamento de exceções.
 
-**Repositório:** `https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO` *(substitua pelo link real)*
+**Repositório:** `https://github.com/thallysson75/SEU-USUARIO-NOME-DO-REPOSITORIO`
 
 ## Requisitos
 
